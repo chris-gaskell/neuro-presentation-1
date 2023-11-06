@@ -1,0 +1,257 @@
+---
+from: markdown+emoji
+format:
+  revealjs:
+    include-in-header: 
+      text: |
+        <meta name="github-repo" content="chris-gaskell/clinical-academic-interview"/>
+        <meta name="twitter:title" content="Clinical Academic Presentation: Dr Chris Gaskell"/>
+        <meta name="twitter:description" content="Slides to present to the panel for clinical academic job interview at North Staffordshire Combined NHS Foundation Trust on 23rd October, 2023"/>
+        <meta name="twitter:url" content="https://clinical-academic-interview.netlify.app"/>
+        <meta name="twitter:image" content="twitter-pic.jpg"/>
+        <meta name="twitter:image:alt" content="Title slide of slides show entitled 'Clinical Academic Presentation: Dr Chris Gaskell'/>
+        <meta name="twitter:card" content="summary_large_image"/>
+        <meta name="twitter:creator" content="@chrisgaskell92/>
+        <meta name="twitter:site" content="@chrisgaskell92"/>
+    smaller: false
+    scrollable: true
+    incremental: false
+    theme: [simple, custom.scss]
+    preview-links: false
+    preload-iframes: false
+    chalkboard: true
+    author: "Dr. Chris Gaskell"
+    institute: "Neuropsychology <br> North Staffordshire Combined Healthcare NHS Foundation Trust"
+    footer: "**Clinical Academic Interview**: Dr. Chris Gaskell"
+    transition: slide
+    background-transition: fade
+    transition-speed: slow
+    footnotes-hover: true
+    filters: 
+      - designmode
+bibliography: references.bib
+---
+
+## Clinical Academic Presentation: {background-color="#01364C" style="font-size: 35px; text-align: center;"}
+
+### Dr Chris Gaskell
+
+<br>
+
+::: {style="text-align: center"}
+*for:*
+:::
+
+<br>
+
+**North Staffordshire Combined Healthcare NHS**<br>Foundation Trust
+
+23/10/2023
+
+<br>
+
+::: {style="text-align: center"}
+For access to these slides:<br> [https://clinical-academic-interview.netlify.app](https://clinical-academic-interview.netlify.app){.uri style="text-align: center"}
+:::
+
+------------------------------------------------------------------------
+
+::: columns
+::: {.column width="60%" style="text-align: center"}
+![](chris.jpg){style="border-radius: 50%; box-shadow: 0 0 30px black;" width="230"}
+
+### Dr. Chris Gaskell
+
+::: {style="font-size: 24px; text-align: center"}
+Senior Clinical Psychologist[^1]
+
+Neuropsychology
+
+North Staffordshire Combined Healthcare NHS Trust
+:::
+
+::: {.column width="40%" style="text-align: center"}
+:::
+:::
+:::
+
+[^1]: Also an Honorary Researcher for University of Sheffield
+
+------------------------------------------------------------------------
+
+## Journey So Far {background-color="white"}
+
+![](visual_cv.png)
+
+## Skills Learnt Along the Way
+
+#### Research :lab_coat:
+
+-   Quantitative methodology (Meta-Analysis, SCED, MLM).
+
+-   10 x Peer-reviewed journal articles.
+
+#### Data Science :nerd_face: :chart_with_upwards_trend:
+
+-   R programming environment.
+
+-   Data Visualisation.
+
+#### Web Development :computer:
+
+-   HTML Products (websites, slides, e-books).
+
+-   Data driven web applications.
+
+#### 
+
+## A Few Things to Show For It {background-color="white"}
+
+::: columns
+::: {.column width="50%"}
+[![HTML web application for assessing for statistical change in cognitive abilities.](Screenshot%202023-10-15%20at%2010.42.49.jpg)](https://chris-gaskell.shinyapps.io/reliable-change/)
+:::
+
+::: {.column width="50%"}
+[![Screenshot of most recent peer-reviewed journal article, published in Epilepsia.](Screenshot%202023-10-15%20at%2010.39.33.jpg)](https://eprints.whiterose.ac.uk/199916/1/Epilepsia%20-%202023%20-%20Gaskell%20-%20A%20meta%E2%80%90analytic%20review%20of%20the%20effectiveness%20of%20psychological%20treatment%20of%20functional.pdf)
+:::
+:::
+
+::: notes
+-   First publication in 2020.
+-   10 publications to date.
+-   Two Shiny Apps
+:::
+
+## Why Do I Want This Position?
+
+::: columns
+::: {.column width="50%"}
+-   Sense of excitement and innovation :fire:
+
+-   Develop research skills :scientist:
+
+-   Forge clinical-academic career :nerd_face:
+
+-   Networking & Learning from others :people_holding_hands:
+
+-   Dedicated time :stopwatch:
+:::
+
+::: {.column width="50%"}
+![](images/venn.jpg){fig-align="center"}
+:::
+:::
+
+::: {style="text-align: center; padding: 200px 0;"}
+# Research Ideas {background-color="#01364C"}
+:::
+
+------------------------------------------------------------------------
+
+## Primary Work Streams
+
+::: incremental
+1.  Novel [**Electronic Interventions**]{style="color:#0072CE"} for Neuropsychology.
+2.  [**Data Driven**]{style="color:#0072CE"} approaches for evaluating [**Outcome Research**]{style="color:#0072CE"}.
+3.  [**Data Tools**]{style="color:#0072CE"} (apps) to improve service efficiency and quality.
+4.  Building [**Normative Data**]{style="color:#0072CE"} for neurological conditions.
+:::
+
+## Electronic Interventions
+
+![Title slide of presentation delivered to North Staffs Combined Dragons Den 2023](images/front_slide.jpg){fig-align="left" width="356"}
+
+::: notes
+•Develop a digital self-help intervention for patients experiencing functional/dissociative symptoms.
+
+•This would be a HTML first approach, providing accessible and informative psychological intervention to a patient user group who currently do not have provisions for treatment. 
+
+•This would provide high-quality intervention that could be delivered through minimal clinician input by a junior clinician. 
+:::
+
+## Why is this Worth Doing?
+
+::: columns
+::: {.column width="50%"}
+#### Patients:
+
+-   Ease of access (any device).
+
+-   Prompt digital access.
+
+-   User-friendly interface.
+
+-   Highly acceptable and limited stigma.
+
+-   Expand language options.
+
+-   Accessibility features.
+
+-   Functionality.
+:::
+
+::: {.column width="50%"}
+#### Combined Healthcare:
+
+-   Cost-effectiveness.
+
+-   Engagement rates.
+
+-   Sustainability.
+
+-   Reduce waiting periods.
+:::
+:::
+
+## What Will This Project Involve?
+
+::: columns
+::: {.column width="50%"}
+-   Junior clinician.
+
+-   Guided self-help.
+
+-   Modular based intervention package.
+
+-   Accessibility features.
+
+-   Interactivity.
+:::
+
+::: {.column width="50%"}
+[![Screenshot and link to electronic intervention prototype. Cognitive rehabilitation for patients experiencing memory problems.](images/Screenshot%202023-10-21%20at%2021.12.07.jpg)](https://cog-rehab.netlify.app)
+:::
+:::
+
+## Considerations
+
+-   **Method:** Acceptability and Preliminary Effectiveness Design.
+
+-   **Sample:** Neuropsychology and FND clinics (Stoke & Sheffield).
+
+-   **Collaboration:**
+
+    -   **Graphic Design:** North Staffs Combined Comms Team.
+
+    -   **Expertise:** Research Networks at University of Sheffield.
+
+    -   **Evaluation:** Assistant Psychologist & DClinPsy student.
+
+-   **Barriers and Challenges:**
+
+    -   Time, Time, Time.
+
+    -   Design and Graphics.
+
+    -   Energy and Burn out.
+
+-   **Dissemination:**
+
+    -   Peer review article (e.g., Epilepsia, Seizure).
+
+::: {style="text-align: center; padding: 200px 0;"}
+# Thank you for listening {background-color="#01364C"}
+
+:handshake:
+:::
