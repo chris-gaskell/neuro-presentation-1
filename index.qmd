@@ -4,13 +4,10 @@ format:
   revealjs:
     include-in-header: 
       text: |
-        <meta name="github-repo" content="chris-gaskell/clinical-academic-interview"/>
-        <meta name="twitter:title" content="Clinical Academic Presentation: Dr Chris Gaskell"/>
-        <meta name="twitter:description" content="Slides to present to the panel for clinical academic job interview at North Staffordshire Combined NHS Foundation Trust on 23rd October, 2023"/>
-        <meta name="twitter:url" content="https://clinical-academic-interview.netlify.app"/>
-        <meta name="twitter:image" content="twitter-pic.jpg"/>
-        <meta name="twitter:image:alt" content="Title slide of slides show entitled 'Clinical Academic Presentation: Dr Chris Gaskell'/>
-        <meta name="twitter:card" content="summary_large_image"/>
+        <meta name="github-repo" content="chris-gaskell/neuro-presentation 1/>
+        <meta name="twitter:title" content="Neuropsychology Peer Supervision: Dr Chris Gaskell"/>
+        <meta name="twitter:description" content="Slides to accompany the case presentation at the North Staffordshire Combined NHS Foundation Trust Neuropsychology Peer Supervision group on 8th November, 2023"/>
+        <meta name="twitter:url" content="https://neuro-presentation-1.netlify.app"/>
         <meta name="twitter:creator" content="@chrisgaskell92/>
         <meta name="twitter:site" content="@chrisgaskell92"/>
     smaller: false
@@ -22,7 +19,7 @@ format:
     chalkboard: true
     author: "Dr. Chris Gaskell"
     institute: "Neuropsychology <br> North Staffordshire Combined Healthcare NHS Foundation Trust"
-    footer: "**Clinical Academic Interview**: Dr. Chris Gaskell"
+    footer: "**Neuro Supervision Group**: Dr. Chris Gaskell"
     transition: slide
     background-transition: fade
     transition-speed: slow
@@ -32,11 +29,13 @@ format:
 bibliography: references.bib
 ---
 
-## Clinical Academic Presentation: {background-color="#01364C" style="font-size: 35px; text-align: center;"}
+## Neuropsychology Peer Supervision: {background-color="#01364C" style="font-size: 35px; text-align: center;"}
 
 ### Dr Chris Gaskell
 
 <br>
+
+Slides to accompany the case presentation<br>
 
 ::: {style="text-align: center"}
 *for:*
@@ -44,214 +43,132 @@ bibliography: references.bib
 
 <br>
 
-**North Staffordshire Combined Healthcare NHS**<br>Foundation Trust
+**North Staffordshire Combined NHS Foundation Trust** Neuropsychology Peer Supervision group<br>
 
-23/10/2023
+8th November, 2023
 
-<br>
-
-::: {style="text-align: center"}
-For access to these slides:<br> [https://clinical-academic-interview.netlify.app](https://clinical-academic-interview.netlify.app){.uri style="text-align: center"}
-:::
+# Background Information {background-color="#01364C"}
 
 ------------------------------------------------------------------------
 
-::: columns
-::: {.column width="60%" style="text-align: center"}
-![](chris.jpg){style="border-radius: 50%; box-shadow: 0 0 30px black;" width="230"}
+### Background Information
 
-### Dr. Chris Gaskell
+-   **Gender:** Male.
 
-::: {style="font-size: 24px; text-align: center"}
-Senior Clinical Psychologist[^1]
+-   **Age:** 60.
 
-Neuropsychology
+-   **Ethnicity:** White.
 
-North Staffordshire Combined Healthcare NHS Trust
-:::
+-   **Occupation:** Business owner (tradesman).
 
-::: {.column width="40%" style="text-align: center"}
-:::
-:::
-:::
+-   **Marital Status:** Married.
 
-[^1]: Also an Honorary Researcher for University of Sheffield
+-   **Handedness:** Left.
 
-------------------------------------------------------------------------
+-   **Referral:** From N=neurology for neuropsychological assessment.
 
-## Journey So Far {background-color="white"}
+-   **Initial Onset:** 2020.
 
-![](visual_cv.png)
+-   **Dominant Concern:** Expressive Language (word hesitations/WFD, spelling, writing)
 
-## Skills Learnt Along the Way
+-   **Additional Concerns:** STM, memory span, planning, fine motor dexterity.
 
-#### Research :lab_coat:
+## [**Discuss!**]{style="color:red"}
 
--   Quantitative methodology (Meta-Analysis, SCED, MLM).
-
--   10 x Peer-reviewed journal articles.
-
-#### Data Science :nerd_face: :chart_with_upwards_trend:
-
--   R programming environment.
-
--   Data Visualisation.
-
-#### Web Development :computer:
-
--   HTML Products (websites, slides, e-books).
-
--   Data driven web applications.
-
-#### 
-
-## A Few Things to Show For It {background-color="white"}
-
-::: columns
-::: {.column width="50%"}
-[![HTML web application for assessing for statistical change in cognitive abilities.](Screenshot%202023-10-15%20at%2010.42.49.jpg)](https://chris-gaskell.shinyapps.io/reliable-change/)
-:::
-
-::: {.column width="50%"}
-[![Screenshot of most recent peer-reviewed journal article, published in Epilepsia.](Screenshot%202023-10-15%20at%2010.39.33.jpg)](https://eprints.whiterose.ac.uk/199916/1/Epilepsia%20-%202023%20-%20Gaskell%20-%20A%20meta%E2%80%90analytic%20review%20of%20the%20effectiveness%20of%20psychological%20treatment%20of%20functional.pdf)
-:::
-:::
-
-::: notes
--   First publication in 2020.
--   10 publications to date.
--   Two Shiny Apps
-:::
-
-## Why Do I Want This Position?
-
-::: columns
-::: {.column width="50%"}
--   Sense of excitement and innovation :fire:
-
--   Develop research skills :scientist:
-
--   Forge clinical-academic career :nerd_face:
-
--   Networking & Learning from others :people_holding_hands:
-
--   Dedicated time :stopwatch:
-:::
-
-::: {.column width="50%"}
-![](images/venn.jpg){fig-align="center"}
-:::
-:::
-
-::: {style="text-align: center; padding: 200px 0;"}
-# Research Ideas {background-color="#01364C"}
-:::
+# Clinical Information {background-color="#01364C"}
 
 ------------------------------------------------------------------------
 
-## Primary Work Streams
+### Health History
 
-::: incremental
-1.  Novel [**Electronic Interventions**]{style="color:#0072CE"} for Neuropsychology.
-2.  [**Data Driven**]{style="color:#0072CE"} approaches for evaluating [**Outcome Research**]{style="color:#0072CE"}.
-3.  [**Data Tools**]{style="color:#0072CE"} (apps) to improve service efficiency and quality.
-4.  Building [**Normative Data**]{style="color:#0072CE"} for neurological conditions.
-:::
+-   **Health Events:** No significant past medical history.
+-   **Health Conditions:** hypertension.
+-   **Physical Symptoms:** Recently noticed feeling increasingly fatigued and disrupted sleep.
+-   **Substance Usage:** 2 bottles of wine per week.
+-   **Mental Health:** Anti-depressant prescribed since speech difficulty onset (frustration). No past MH service usage and does not identify as having mental health needs.
+-   **Symptom Course:** Suspected to be worsening over time, however still highly independent.
+-   **Stability:** Speech can be worse in settings that are demanding or novel.
 
-## Electronic Interventions
+## [**Discuss!**]{style="color:red"}
 
-![Title slide of presentation delivered to North Staffs Combined Dragons Den 2023](images/front_slide.jpg){fig-align="left" width="356"}
+# Prior Investigations {background-color="#01364C"}
 
-::: notes
-•Develop a digital self-help intervention for patients experiencing functional/dissociative symptoms.
+------------------------------------------------------------------------
 
-•This would be a HTML first approach, providing accessible and informative psychological intervention to a patient user group who currently do not have provisions for treatment. 
+### Prior Investigations
 
-•This would provide high-quality intervention that could be delivered through minimal clinician input by a junior clinician. 
-:::
+-   **ACE-III:** August 2022 (81/100). Points dropped for memory, fluency, language, and, visuospatial tasks.
+-   **MRIs:** Comparisions between 2021 and 2023. "No definite abnormality... There is possible mild generalised cerebral atrophy but this has not shown any interval change since the previous examination" (Dr Taylor, Consultant Neuroradiologist).\
+-   **FDG PET:** 2022 (81/100). "mild regional comparative changes within the left parietal and left lateral temporal lobes with possible changes in the posterior cingulate gyrus...".
 
-## Why is this Worth Doing?
+## [**Discuss!**]{style="color:red"}
 
-::: columns
-::: {.column width="50%"}
-#### Patients:
+# Neuropsychological Testing {background-color="#01364C"}
 
--   Ease of access (any device).
+------------------------------------------------------------------------
 
--   Prompt digital access.
+### Neuropsychological Testing
 
--   User-friendly interface.
+### Speech Observations
 
--   Highly acceptable and limited stigma.
+-   Utterances varied in length and sometimes lacked proper grammar.
 
--   Expand language options.
+-   Meaning behind words seemingly preserved.
 
--   Accessibility features.
+-   There was the occasional omission of words in conversation.
 
--   Functionality.
-:::
+-   There were very few instances of using the wrong word or phrase
 
-::: {.column width="50%"}
-#### Combined Healthcare:
+-   Hesitated fairly frequently while speaking.
 
--   Cost-effectiveness.
+-   Voice tone and volume were at times limited.
 
--   Engagement rates.
+-   TOPF \> significant problems.
 
--   Sustainability.
+-   Dot Counting Test \> significant problems.
 
--   Reduce waiting periods.
-:::
-:::
+------------------------------------------------------------------------
 
-## What Will This Project Involve?
+### Test Scores
 
-::: columns
-::: {.column width="50%"}
--   Junior clinician.
+![](images/1.jpg)
 
--   Guided self-help.
+![](images/2.jpg)
 
--   Modular based intervention package.
+![](images/3.jpg)
 
--   Accessibility features.
+## [**Discuss!**]{style="color:red"}
 
--   Interactivity.
-:::
+### **... What is the diagnosis?**
 
-::: {.column width="50%"}
-[![Screenshot and link to electronic intervention prototype. Cognitive rehabilitation for patients experiencing memory problems.](images/Screenshot%202023-10-21%20at%2021.12.07.jpg)](https://cog-rehab.netlify.app)
-:::
-:::
+# My Opinion & Post Investigations {background-color="#01364C"}
 
-## Considerations
+------------------------------------------------------------------------
 
--   **Method:** Acceptability and Preliminary Effectiveness Design.
+### Summary & Opinion
 
--   **Sample:** Neuropsychology and FND clinics (Stoke & Sheffield).
+-   **Clinical Symptoms:** Initially & Dominant Symptom = Expressive language
+-   **Cognitive Profile:** Expressive language with other areas affected to a slightly lesser extent. Seemingly intact language comprehension, strong insight, no behavioural concerns, and prounounced difficulty around repetition and hesitations
+-   **Imaging:** Changes shown to the temporo-parietal region.
 
--   **Collaboration:**
+### Summary & Opinion
 
-    -   **Graphic Design:** North Staffs Combined Comms Team.
+**Opinion:** Primary Progressive Aphasia (Logopenic Variant).
 
-    -   **Expertise:** Research Networks at University of Sheffield.
+**Further Support:** CSF later showed strong signs of Alzheimer's pathology.
 
-    -   **Evaluation:** Assistant Psychologist & DClinPsy student.
+**Differentials:** Non-Fluent Variant of PPA, Young-Onset Alzheimer's
 
--   **Barriers and Challenges:**
+# Recommendations {background-color="#01364C"}
 
-    -   Time, Time, Time.
+## [**Discuss!**]{style="color:red"}
 
-    -   Design and Graphics.
+------------------------------------------------------------------------
 
-    -   Energy and Burn out.
+## Recommendations
 
--   **Dissemination:**
+-   Anti-cholinesterase inhibitors.
+-   Speech & Language Therapy.
+-   Cognitive Rehabilitation.
 
-    -   Peer review article (e.g., Epilepsia, Seizure).
-
-::: {style="text-align: center; padding: 200px 0;"}
-# Thank you for listening {background-color="#01364C"}
-
-:handshake:
-:::
+## **All Done**
