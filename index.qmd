@@ -47,6 +47,30 @@ Slides to accompany the case presentation<br>
 
 8th November, 2023
 
+## Overview
+
+<br>
+
+#### Fact Finding Scaneraio!
+
+<br>
+
+::: columns
+::: {.column width="50%"}
+#### You are all tasked with investigating:
+
+-   Diagnosis
+
+-   Recommendations
+:::
+
+::: {.column width="50%"}
+![Format guiltlessly stolen from the Amaerican neuropsychology podcast NevNeuro.](images/nav-neuro.jpeg)
+:::
+:::
+
+### 
+
 # Background Information {background-color="#01364C"}
 
 ------------------------------------------------------------------------
@@ -65,7 +89,7 @@ Slides to accompany the case presentation<br>
 
 -   **Handedness:** Left.
 
--   **Referral:** From N=neurology for neuropsychological assessment.
+-   **Referral:** From Neurology for neuropsychological assessment.
 
 -   **Initial Onset:** 2020.
 
@@ -83,10 +107,11 @@ Slides to accompany the case presentation<br>
 
 -   **Health Events:** No significant past medical history.
 -   **Health Conditions:** hypertension.
+-   **Medication:** anti-hypertensive, anti-depressent.
 -   **Physical Symptoms:** Recently noticed feeling increasingly fatigued and disrupted sleep.
 -   **Substance Usage:** 2 bottles of wine per week.
 -   **Mental Health:** Anti-depressant prescribed since speech difficulty onset (frustration). No past MH service usage and does not identify as having mental health needs.
--   **Symptom Course:** Suspected to be worsening over time, however still highly independent.
+-   **Symptom Course:** Suspected to be worsening over time, however patient is still highly independent.
 -   **Stability:** Speech can be worse in settings that are demanding or novel.
 
 ## [**Discuss!**]{style="color:red"}
@@ -109,23 +134,25 @@ Slides to accompany the case presentation<br>
 
 ### Neuropsychological Testing
 
-### Speech Observations
+<br>
+
+#### Speech Observations
 
 -   Utterances varied in length and sometimes lacked proper grammar.
+
+-   Masked at times by using alternative words and looking to wife.
 
 -   Meaning behind words seemingly preserved.
 
 -   There was the occasional omission of words in conversation.
 
--   There were very few instances of using the wrong word or phrase
+-   There were very few instances of using the wrong word or phrase.
 
 -   Hesitated fairly frequently while speaking.
 
 -   Voice tone and volume were at times limited.
 
 -   TOPF \> significant problems.
-
--   Dot Counting Test \> significant problems.
 
 ------------------------------------------------------------------------
 
@@ -145,19 +172,39 @@ Slides to accompany the case presentation<br>
 
 ------------------------------------------------------------------------
 
-### Summary & Opinion
+### Summary
 
 -   **Clinical Symptoms:** Initially & Dominant Symptom = Expressive language
 -   **Cognitive Profile:** Expressive language with other areas affected to a slightly lesser extent. Seemingly intact language comprehension, strong insight, no behavioural concerns, and prounounced difficulty around repetition and hesitations
 -   **Imaging:** Changes shown to the temporo-parietal region.
 
-### Summary & Opinion
+### Impression
 
 **Opinion:** Primary Progressive Aphasia (Logopenic Variant).
 
-**Further Support:** CSF later showed strong signs of Alzheimer's pathology.
+------------------------------------------------------------------------
 
-**Differentials:** Non-Fluent Variant of PPA, Young-Onset Alzheimer's
+::: columns
+::: {.column width="50%"}
+![Key diagnostic crtieria for PPA. Taken from Gorno-Tempini et al (2011).](images/table%201.jpg){alt="Key diagnostic crtieria for PPA. Taken from Gorno-Tempini et al (2011)." width="1000"}
+:::
+
+::: {.column width="50%"}
+![](images/types.jpeg)
+:::
+:::
+
+------------------------------------------------------------------------
+
+![Key diagnostic crtieria for lvPPA. Taken from Gorno-Tempini et al (2011).](images/table-logo.jpg)
+
+## **Differential Diagnoses**
+
+-   Non-Fluent Variant of PPA
+
+-   Young-Onset Alzheimer's
+
+**Further Support:** CSF later showed strong signs of Alzheimer's pathology.
 
 # Recommendations {background-color="#01364C"}
 
