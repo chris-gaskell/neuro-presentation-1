@@ -65,7 +65,7 @@ Slides to accompany the case presentation<br>
 :::
 
 ::: {.column width="50%"}
-![Format guiltlessly stolen from the Amaerican neuropsychology podcast NevNeuro.](images/nav-neuro.jpeg)
+![Format guiltlessly stolen from the American neuropsychology podcast NevNeuro.](images/nav-neuro.jpeg)
 :::
 :::
 
